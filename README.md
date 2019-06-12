@@ -18,7 +18,7 @@ Your repository should include the following:
 
 ## Research Question
 
-How can bodily variables predict the progression of diabetes in diabetic patients.
+How can factors and bodily variables predict the progression of diabetes in prediagnosed patients.
 
 
 ### Abstract
