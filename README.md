@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/MarisaAlves/Project_Diabetes/Python_Scripts/pl
 
 We see from the above scatter plot there is a correlation between the blood pressure, bmi, and total cholesterol: as they increase, so too does the diabetic disease progressor variable.
 
-![alt text](/MarisaAlves/Project_Diabetes/Python_Scripts/plots/Lasso_Predicted.png)
+![alternativetext](Python_Scripts/plots/Lasso_Predicted.png)
 
 <p> In the lasso regression model, we achieved a regression equation as follows: Target = 308.078485*BMI + 48.349328*BP + 270.965511*tch. This model achieved and root mean square error (RMSE) value of 57.77373, which is the standard deviation of the residuals, ie, the dispersion of the differences between the predicted values and the test values. <p>
 
