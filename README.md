@@ -42,7 +42,7 @@ Brief (no more than 1-2 paragraph) description about how you decided to approach
 
 Brief (2 paragraph) description about your results. Include:
 
-https://raw.githubusercontent.com/MarisaAlves/Project_Diabetes/Python_Scripts/plots/diabetesProgression_to_tch_BP_BMI.png)
+![alternativetext](Python_Scripts/plots/diabetesProgression_to_tch_BP_BMI.png)
 
 We see from the above scatter plot there is a correlation between the blood pressure, bmi, and total cholesterol: as they increase, so too does the diabetic disease progressor variable.
 
