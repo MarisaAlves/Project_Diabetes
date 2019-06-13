@@ -30,9 +30,9 @@ python3 diabetes_regression.py
 2. Ensure the DockerFile has been added to the same directory containing the files above (they will all be packaged into the same folder inside the Dockerfile). In the terminal, ensure you are at the directory level containing the DockerFile.
 3. Then we must build the DockerFile by running the following command in the terminal:
 ```
-docker build -t docker_diabetes
+docker build -t docker_diabetes .
 ```
-The name following the -t will be the new assigned name of the file. It could be anything you'd like, but should represent what the file does, and must be all lowercase.
+The name following the -t will be the new assigned name of the file. It could be anything you'd like, but should represent what the file does, and must be all lowercase. It is very important to not forget the . at the end, as it indicates the Dockerfile is in the current directory.
 4. Now we run our built file by performing the following command in the terminal:
 ```
 docker run docker_diabetes
